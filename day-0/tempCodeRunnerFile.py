@@ -1,1 +1,0 @@
-print(rgb_img.shape())
